@@ -3,16 +3,14 @@ body {
   margin: 0;
   font-family: 'Poppins';
   padding: 0;
-  overflow:hidden;
 }
 
 body img.footer {
   position: absolute;
   bottom: 0;
-  height: 150px;/**/
+  height: 80px;/**/
   width: 100vw;
   opacity: 0.65;
-  overflow:hidden;
 }
 
 img.middleimg {
@@ -108,16 +106,14 @@ button {
   word-spacing: 0.5em;
   font-size: medium ;/**/
   color:#350030 ;
-  overflow:hidden;
 }
 
 .contact {
   font-size: small;/**/
   font-weight: bolder;
   position: absolute;
-  bottom: 2vh;
+  bottom: 0.5vh;
   left: 4vw;/**/
-  overflow:hidden;
 }
 @media only screen and (min-width: 530px) {
   body img.footer {
